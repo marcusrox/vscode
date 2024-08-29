@@ -21,3 +21,4 @@ Alter "git clone" a project
 
 https://laravel.com/docs/9.x/sail#installing-composer-dependencies-for-existing-projects
 
+- docker system prune - Delete not used containers and image 
