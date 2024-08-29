@@ -1,13 +1,13 @@
-# vscode
-My VS Code Configurations
+# Visual Studio Code
 
+VS Code Configurations
 
-Extentions: 
+Extensions: 
 - Intelephense
 - TALL stack
 - vscode-icons or Material Icon Theme
 
-# WSL
+# WSL - Windows Subsystem Linux
 
 Follow the instructions
 
