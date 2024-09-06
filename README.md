@@ -34,3 +34,7 @@ Reference: https://laravel.com/docs/9.x/sail#installing-composer-dependencies-fo
 # Terminal
 
 https://dev.to/henriquemsimoes/instalando-e-configurando-zsh-e-oh-my-zsh-4bem
+
+# Laravel
+
+php artisan session:table
